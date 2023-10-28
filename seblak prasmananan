@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Salsabilah Nurul Azkyah Tambunan</title>
+</head>
+<body>
+  <h1>seblak prasmanan | depok</h1>
+  <p>ada 5 jenis seblak yang tersedia untuk di pesan. pilih menu custom sesuka </p>
+  <hr>
+  <from action="#">
+    <h3>isi data kalian</h3>
+    <label>nama :</label>
+    <input type ="text"> 
+    <br>
+    <label>alamat :</label>
+    <textarea cols="20" rows="3"></textarea>
+    <br>
+    <label>No Tlp :</label>
+    <input type="number">
+    <br>
+    <label>email : </table>
+    <input type"email">
+    
+    <fieldset>
+      <h4>pilih satu seblak :</h4>
+      <ul style="list-style-type: none;">
+    <li>
+      <input type="radio" name="menu">
+      <label>original</label>
+      </li>
+        <li>
+          <input type="radio" name="menu">
+          <label>seblak kerupuk</label>
+          </li>
+        <li> 
+            <input type="radio" name="menu">
+            <label>seblak tulang</label>
+            </li>
+            <li>
+            <input type="radio" name="menu">
+     <label>seblak kwetiau</label>
+           </li>
+         <li>
+           <input type="radio" name="menu">
+           <label>seblak kerang seafood</label>
+           </li>
+       </ul>
+       <h4>topping :</4>
+       <ul style="list-style-type:none;">
+         <li>
+           <input type="checkbox">
+           <label>telur puyuh</label>
+        </li>
+      <li>
+        <input type="checkbox">
+        <label>sosis</label>
+        </li>
+      <li>
+        <input type="checkbox">
+         <label>bakso</label>
+     </li>
+       <li>
+        <input type="checkbox">
+        <label>ceker</label>
+     </li>
+        <li>
+        <label    
+        <li>
+            <input type="checkbox">
+            <label>pangsit</label>
+         </li>
+          </ul>
+          <button type="submit">Submit</button>
+          <button type="reset">Reset</button>
+                           
+      </fieldset>
+      </from>
+    </body>
+    </html>        
