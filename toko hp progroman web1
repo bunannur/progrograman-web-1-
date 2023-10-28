@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Salsabilah Nurul Azkyah Tambunan</title>
+</head>
+<body>
+  <h1>home | generate link | history | policy | logout</h1>
+  <hr>
+  <from action="#">
+    <img src="https://cdn.eraspace.com/media/catalog/product/i/p/iphone_14_pro_max_deep_purple_1.jpg" width="200">
+    <h3>isi data kalian</h3>
+    <label>title here :</label>
+    <input type ="text"> 
+    <br>
+    <label>description
+     <textarea cols="30" rows="3"></textarea>
+    <br>
+    <label>account number
+    <input type="number">
+    <br>
+      <br>
+      <label>bank
+        <input type="text">
+        <br>
+        <br>
+        <label>account holder
+        <input type="text">
+          <br>
+          <br>
+        <label>transcation
+          <textarea cols="2" rows="2"></textarea>
+            <br>
+       <br>
+         <li>
+           <input type="radio" name="menu">
+           <label>send to mobile phone</label>
+          </li>
+            <li>
+                <input type="radio" name="menu">
+                <label>send to email</label>
+            </li>
+              <br>
+         <label>send to mobile phone
+      <input type="number"> 
+           <br>
+      <label>email : </table>
+      <input type"email">
+           <fieldset>
+       <button type="submit">Submit</button>
+  
+       <button type="reset">Reset</button>
+    </fieldset>
+</from>
+</body>
+</html>      
