@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>salsabila nurul azkyah tambuanan</title>
+</head>
+<body>
+  <h1>fashion pria | fashion wanita | fashion muslim</h1>
+  <p>home >fashion wanita</p>
+  <hr>
+  <from action="#">
+    <h1>kemeja wanita</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIHmuzFdANmQ6_mAo0rsAthc_Ew9W4kyOhQ&usqp=CAU" width="200">  
+    <p>RP 54.000</p>
+    <p>home >******15 ulasan</p>
+    <p>home >pilihan varian</p>
+    <br>
+  <label>pink :</label>
+  <textarea cols="1" rows="1"></textarea>
+  <br>
+  <br>
+  <label>white :</label>
+  <textarea cols="1" rows="1"></textarea>
+  <br>
+    <br>
+  <label>brown :</label>
+  <textarea cols="1" rows="1"></textarea>
+  <br>
+     <fieldset>
+        <fieldset>
+            <h4>pilih satu ukuran :</h4>
+            <ul style="list-style-type: none;">
+          <li>
+            <input type="radio" name="menu">
+            <label>S</label>
+            </li>
+              <li>
+                <input type="radio" name="menu">
+                <label>M</label>
+                </li>
+              <li> 
+                <input type="radio" name="menu">
+                 <label>L</label>
+                 </li>
+             <li>
+                <input type="radio" name="menu">
+                <label>XL</label>
+            </li>
+            <li> 
+              <input type="radio" name="menu">
+               <label>XXL</label>
+               </li> 
+           <h1>deskripsi</h1>
+         <p>Model lengan baju akan sangat mempengaruhi keseluruhan model pada pakaian. 
+            Banyak sekali baju wanita yang terlihat begitu elegan hanya karena memiliki 
+            variasi lengan baju yang unik. Apabila Anda ingin membuat baju yang menarik 
+            dan juga mampu menambah rasa percaya diri maka di sini ada beberapa variasi 
+            model lengan baju wanita yang bisa anda jadikan inspirasi untuk harga baju 
+            ini sangat terjangkau modelan baju korean style</p>
+            <hr>
+          </body>
+          </html>        
